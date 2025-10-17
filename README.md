@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**nakorabe/nakorabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# kaonasi_biwa/加尾梨 毘和
+GitHubのIDは-(ハイフン)です。  
+マイクラのコマンダー...のはずだった人  
+ブラウザ好きで東方好き  
+フランとか諏訪子さまとか  
+金髪のかっこかわいい子って最高じゃない？(？)  
+<br>
+Floorpの開発者やってたり、  
+Twitter UI Customizer作ったり、  
+気まぐれに色々作ったり(？)  
+<br>
